@@ -1,0 +1,30 @@
+[
+  {
+    "projectName": "CARTMaN",
+    "Description": "2021 senior project. ROS enable robotic platform capable of performing SLAM (simultaneous localization and mapping).",
+    "Image": "Images/cartman.jpg",
+    "ImageBlur": "Images/cartman_blurry.jpg",
+    "URl": "https://github.com/OrMoya/CARTMaN"
+  },
+  {
+    "projectName": "Crypto Pipeline",
+    "Description": "an automated ETL Pipeline to populate a crypto dashboard. Builted using Python and AWS.",
+    "Image": "Images/dashboard_overview.png",
+    "ImageBlur": "Images/companywebsite_blurry.jpg",
+    "URl": "https://github.com/OrMoya/Crypto-Exchange-Pipeline"
+  },
+  {
+    "projectName": "Personal Blazor Website",
+    "Description": "A personal website developed with Blazor using the MudBlazor framework. (2024)",
+    "Image": "Images/website.png",
+    "ImageBlur": "Images/door.jpg",
+    "URl": "https://github.com/OrMoya/website"
+  },
+  {
+    "projectName": "Placeholder",
+    "Description": "Placeholder for future project",
+    "Image": "Images/door.jpg",
+    "ImageBlur": "Images/companywebsite_blurry.jpg",
+    "URl": "N/A"
+  }
+]

@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Title": "Coding",
+    "Description": "I began my career as a .NET developer, since then I have learn the languages of a data engineer.",
+    "Icon": "<path d=\"M0 0h24v24H0V0z\" fill=\"none\"/><path d=\"M8.7 15.9L4.8 12l3.9-3.9c.39-.39.39-1.01 0-1.4-.39-.39-1.01-.39-1.4 0l-4.59 4.59c-.39.39-.39 1.02 0 1.41l4.59 4.6c.39.39 1.01.39 1.4 0 .39-.39.39-1.01 0-1.4zm6.6 0l3.9-3.9-3.9-3.9c-.39-.39-.39-1.01 0-1.4.39-.39 1.01-.39 1.4 0l4.59 4.59c.39.39.39 1.02 0 1.41l-4.59 4.6c-.39.39-1.01.39-1.4 0-.39-.39-.39-1.01 0-1.4z\"/>",
+    "Category": "Languages",
+    "BulletsOne": [
+      "Python-",
+      "SQL-",
+      "C#-",
+      "Shell-",
+      "Javascript "
+    ],
+    "CategoryTwo": "Tools",
+    "BulletsTwo": [
+      "Visual Studio",
+      "Pandas/Numpy",
+      "Blazor",
+      "Linux",
+      "React.JS"
+    ]
+  },
+  {
+    "Title": "Database Management",
+    "Description": "Below are the tools and skills I am learning for the management of databases and ETL pipelines.",
+    "Icon": "<path d=\"M12,7V3H2v18h20V7H12z M10,19H4v-2h6V19z M10,15H4v-2h6V15z M10,11H4V9h6V11z M10,7H4V5h6V7z M20,19h-8V9h8V19z M18,11h-4v2 h4V11z M18,15h-4v2h4V15z\"/>",
+    "Category": "Skills",
+    "BulletsOne": [
+      "Data Normalization/Data Modeling-",
+      "ETL/ELT-",
+      "Visualization"
+    ],
+    "CategoryTwo": "Tools",
+    "BulletsTwo": [
+      "AWS - S3, Lambda, EC2",
+      "MSSQL/Postgres",
+      "MongoDB",
+      "Terraform",
+      "SSMS"
+    ]
+  }
+]
